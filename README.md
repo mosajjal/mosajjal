@@ -6,6 +6,6 @@
 </a>
 
 <a href="https://blog.n0p.me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosajjal&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosajjal&exclude_repo=49rc1,vte-290,r6p2,&theme=dark" />
 </a>
 
