@@ -1,5 +1,5 @@
 <a href="https://blog.n0p.me">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosajjal&show_icons=true&line_height=37&count_private=true&theme=dark" alt="mosajjal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mosajjal&show_icons=true&line_height=40&count_private=true&theme=dark" alt="mosajjal's GitHub Stats" />
 </a>
 
 <a href="https://blog.n0p.me">
